@@ -6,6 +6,9 @@
 
 <script setup lang="ts">
 const str = 'xxx'
+for(let i=0; i<str.length; i++){
+  console.log('a');
+}
 </script>
 
 <style scoped lang="scss">
